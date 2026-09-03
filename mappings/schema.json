@@ -37,11 +37,14 @@
     "source": {
       "enum": [
         "mojang-official",
+        "intermediary",
+        "srg",
+        "jar",
         "mcp",
         "yarn",
         "manual"
       ],
-      "description": "Where the runtime names came from, for auditability."
+      "description": "Where the runtime names came from. 'jar' means the release is not obfuscated and the names were read from the class files."
     },
     "generated": {
       "type": "string",

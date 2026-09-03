@@ -1,0 +1,2407 @@
+{
+  "schema": 1,
+  "generated": "2026-09-03",
+  "count": 300,
+  "versions": [
+    {
+      "minecraft": "1.14.4",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.14.4.json.zst",
+      "bytes": 1046290
+    },
+    {
+      "minecraft": "1.15.1",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.15.1.json.zst",
+      "bytes": 1092749
+    },
+    {
+      "minecraft": "1.15.2",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.15.2.json.zst",
+      "bytes": 1095079
+    },
+    {
+      "minecraft": "1.15",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.15.json.zst",
+      "bytes": 1092509
+    },
+    {
+      "minecraft": "1.16.1",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.16.1.json.zst",
+      "bytes": 1205998
+    },
+    {
+      "minecraft": "1.16.2",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.16.2.json.zst",
+      "bytes": 1224905
+    },
+    {
+      "minecraft": "1.16.3",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.16.3.json.zst",
+      "bytes": 1224969
+    },
+    {
+      "minecraft": "1.16.4",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.16.4.json.zst",
+      "bytes": 1230485
+    },
+    {
+      "minecraft": "1.16.5",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.16.5.json.zst",
+      "bytes": 1231422
+    },
+    {
+      "minecraft": "1.16",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.16.json.zst",
+      "bytes": 1206109
+    },
+    {
+      "minecraft": "1.17.1",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.17.1.json.zst",
+      "bytes": 1370945
+    },
+    {
+      "minecraft": "1.17",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.17.json.zst",
+      "bytes": 1368608
+    },
+    {
+      "minecraft": "1.18.1",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.18.1.json.zst",
+      "bytes": 1415201
+    },
+    {
+      "minecraft": "1.18.2",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.18.2.json.zst",
+      "bytes": 1433669
+    },
+    {
+      "minecraft": "1.18",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.18.json.zst",
+      "bytes": 1413538
+    },
+    {
+      "minecraft": "1.19.1",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.19.1.json.zst",
+      "bytes": 1531649
+    },
+    {
+      "minecraft": "1.19.2",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.19.2.json.zst",
+      "bytes": 1531175
+    },
+    {
+      "minecraft": "1.19.3",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.19.3.json.zst",
+      "bytes": 1580229
+    },
+    {
+      "minecraft": "1.19.4",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.19.4.json.zst",
+      "bytes": 1626855
+    },
+    {
+      "minecraft": "1.19",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.19.json.zst",
+      "bytes": 1507246
+    },
+    {
+      "minecraft": "1.20.1",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.20.1.json.zst",
+      "bytes": 1655385
+    },
+    {
+      "minecraft": "1.20.2",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.20.2.json.zst",
+      "bytes": 1681417
+    },
+    {
+      "minecraft": "1.20.3",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.20.3.json.zst",
+      "bytes": 1730268
+    },
+    {
+      "minecraft": "1.20.4",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.20.4.json.zst",
+      "bytes": 1730675
+    },
+    {
+      "minecraft": "1.20.5",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.20.5.json.zst",
+      "bytes": 1810416
+    },
+    {
+      "minecraft": "1.20.6",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.20.6.json.zst",
+      "bytes": 1810333
+    },
+    {
+      "minecraft": "1.20",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.20.json.zst",
+      "bytes": 1655693
+    },
+    {
+      "minecraft": "1.21.1",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.21.1.json.zst",
+      "bytes": 1835270
+    },
+    {
+      "minecraft": "1.21.10",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.21.10.json.zst",
+      "bytes": 2113190
+    },
+    {
+      "minecraft": "1.21.11",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.21.11.json.zst",
+      "bytes": 2156791
+    },
+    {
+      "minecraft": "1.21.2",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.21.2.json.zst",
+      "bytes": 1910822
+    },
+    {
+      "minecraft": "1.21.3",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.21.3.json.zst",
+      "bytes": 1910640
+    },
+    {
+      "minecraft": "1.21.4",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.21.4.json.zst",
+      "bytes": 1928407
+    },
+    {
+      "minecraft": "1.21.5",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.21.5.json.zst",
+      "bytes": 1984758
+    },
+    {
+      "minecraft": "1.21.6",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.21.6.json.zst",
+      "bytes": 2036211
+    },
+    {
+      "minecraft": "1.21.7",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.21.7.json.zst",
+      "bytes": 2036238
+    },
+    {
+      "minecraft": "1.21.8",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.21.8.json.zst",
+      "bytes": 2036047
+    },
+    {
+      "minecraft": "1.21.9",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.21.9.json.zst",
+      "bytes": 2112439
+    },
+    {
+      "minecraft": "1.21",
+      "loader": "fabric",
+      "side": "client",
+      "source": "intermediary",
+      "file": "fabric/client/1.21.json.zst",
+      "bytes": 1835657
+    },
+    {
+      "minecraft": "26.1.1",
+      "loader": "fabric",
+      "side": "client",
+      "source": "jar",
+      "file": "fabric/client/26.1.1.json.zst",
+      "bytes": 2095843
+    },
+    {
+      "minecraft": "26.1.2",
+      "loader": "fabric",
+      "side": "client",
+      "source": "jar",
+      "file": "fabric/client/26.1.2.json.zst",
+      "bytes": 2095009
+    },
+    {
+      "minecraft": "26.1",
+      "loader": "fabric",
+      "side": "client",
+      "source": "jar",
+      "file": "fabric/client/26.1.json.zst",
+      "bytes": 2095561
+    },
+    {
+      "minecraft": "26.2",
+      "loader": "fabric",
+      "side": "client",
+      "source": "jar",
+      "file": "fabric/client/26.2.json.zst",
+      "bytes": 2160888
+    },
+    {
+      "minecraft": "1.14.4",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.14.4.json.zst",
+      "bytes": 731122
+    },
+    {
+      "minecraft": "1.15.1",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.15.1.json.zst",
+      "bytes": 764622
+    },
+    {
+      "minecraft": "1.15.2",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.15.2.json.zst",
+      "bytes": 765180
+    },
+    {
+      "minecraft": "1.15",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.15.json.zst",
+      "bytes": 763915
+    },
+    {
+      "minecraft": "1.16.1",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.16.1.json.zst",
+      "bytes": 859850
+    },
+    {
+      "minecraft": "1.16.2",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.16.2.json.zst",
+      "bytes": 873496
+    },
+    {
+      "minecraft": "1.16.3",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.16.3.json.zst",
+      "bytes": 873595
+    },
+    {
+      "minecraft": "1.16.4",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.16.4.json.zst",
+      "bytes": 875630
+    },
+    {
+      "minecraft": "1.16.5",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.16.5.json.zst",
+      "bytes": 875447
+    },
+    {
+      "minecraft": "1.16",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.16.json.zst",
+      "bytes": 859535
+    },
+    {
+      "minecraft": "1.17.1",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.17.1.json.zst",
+      "bytes": 999301
+    },
+    {
+      "minecraft": "1.17",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.17.json.zst",
+      "bytes": 998296
+    },
+    {
+      "minecraft": "1.18.1",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.18.1.json.zst",
+      "bytes": 1040588
+    },
+    {
+      "minecraft": "1.18.2",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.18.2.json.zst",
+      "bytes": 1056389
+    },
+    {
+      "minecraft": "1.18",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.18.json.zst",
+      "bytes": 1039946
+    },
+    {
+      "minecraft": "1.19.1",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.19.1.json.zst",
+      "bytes": 1121741
+    },
+    {
+      "minecraft": "1.19.2",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.19.2.json.zst",
+      "bytes": 1121678
+    },
+    {
+      "minecraft": "1.19.3",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.19.3.json.zst",
+      "bytes": 1158196
+    },
+    {
+      "minecraft": "1.19.4",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.19.4.json.zst",
+      "bytes": 1190041
+    },
+    {
+      "minecraft": "1.19",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.19.json.zst",
+      "bytes": 1116217
+    },
+    {
+      "minecraft": "1.20.1",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.20.1.json.zst",
+      "bytes": 1208132
+    },
+    {
+      "minecraft": "1.20.2",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.20.2.json.zst",
+      "bytes": 1227827
+    },
+    {
+      "minecraft": "1.20.3",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.20.3.json.zst",
+      "bytes": 1264236
+    },
+    {
+      "minecraft": "1.20.4",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.20.4.json.zst",
+      "bytes": 1264102
+    },
+    {
+      "minecraft": "1.20.5",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.20.5.json.zst",
+      "bytes": 1336652
+    },
+    {
+      "minecraft": "1.20.6",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.20.6.json.zst",
+      "bytes": 1335866
+    },
+    {
+      "minecraft": "1.20",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.20.json.zst",
+      "bytes": 1208382
+    },
+    {
+      "minecraft": "1.21.1",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.21.1.json.zst",
+      "bytes": 1360618
+    },
+    {
+      "minecraft": "1.21.10",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.21.10.json.zst",
+      "bytes": 1508284
+    },
+    {
+      "minecraft": "1.21.11",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.21.11.json.zst",
+      "bytes": 1541202
+    },
+    {
+      "minecraft": "1.21.2",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.21.2.json.zst",
+      "bytes": 1412921
+    },
+    {
+      "minecraft": "1.21.3",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.21.3.json.zst",
+      "bytes": 1412243
+    },
+    {
+      "minecraft": "1.21.4",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.21.4.json.zst",
+      "bytes": 1397788
+    },
+    {
+      "minecraft": "1.21.5",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.21.5.json.zst",
+      "bytes": 1440918
+    },
+    {
+      "minecraft": "1.21.6",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.21.6.json.zst",
+      "bytes": 1466612
+    },
+    {
+      "minecraft": "1.21.7",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.21.7.json.zst",
+      "bytes": 1466108
+    },
+    {
+      "minecraft": "1.21.8",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.21.8.json.zst",
+      "bytes": 1466243
+    },
+    {
+      "minecraft": "1.21.9",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.21.9.json.zst",
+      "bytes": 1508574
+    },
+    {
+      "minecraft": "1.21",
+      "loader": "fabric",
+      "side": "server",
+      "source": "intermediary",
+      "file": "fabric/server/1.21.json.zst",
+      "bytes": 1360956
+    },
+    {
+      "minecraft": "26.1.1",
+      "loader": "fabric",
+      "side": "server",
+      "source": "jar",
+      "file": "fabric/server/26.1.1.json.zst",
+      "bytes": 1483102
+    },
+    {
+      "minecraft": "26.1.2",
+      "loader": "fabric",
+      "side": "server",
+      "source": "jar",
+      "file": "fabric/server/26.1.2.json.zst",
+      "bytes": 1483165
+    },
+    {
+      "minecraft": "26.1",
+      "loader": "fabric",
+      "side": "server",
+      "source": "jar",
+      "file": "fabric/server/26.1.json.zst",
+      "bytes": 1482797
+    },
+    {
+      "minecraft": "26.2",
+      "loader": "fabric",
+      "side": "server",
+      "source": "jar",
+      "file": "fabric/server/26.2.json.zst",
+      "bytes": 1508579
+    },
+    {
+      "minecraft": "1.14.4",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.14.4.json.zst",
+      "bytes": 1103300
+    },
+    {
+      "minecraft": "1.15.1",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.15.1.json.zst",
+      "bytes": 1151413
+    },
+    {
+      "minecraft": "1.15.2",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.15.2.json.zst",
+      "bytes": 1155834
+    },
+    {
+      "minecraft": "1.15",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.15.json.zst",
+      "bytes": 1151147
+    },
+    {
+      "minecraft": "1.16.1",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.16.1.json.zst",
+      "bytes": 1276842
+    },
+    {
+      "minecraft": "1.16.2",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.16.2.json.zst",
+      "bytes": 1297030
+    },
+    {
+      "minecraft": "1.16.3",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.16.3.json.zst",
+      "bytes": 1297145
+    },
+    {
+      "minecraft": "1.16.4",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.16.4.json.zst",
+      "bytes": 1303334
+    },
+    {
+      "minecraft": "1.16.5",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.16.5.json.zst",
+      "bytes": 1303285
+    },
+    {
+      "minecraft": "1.16",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.16.json.zst",
+      "bytes": 1276358
+    },
+    {
+      "minecraft": "1.17.1",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.17.1.json.zst",
+      "bytes": 1355896
+    },
+    {
+      "minecraft": "1.17",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.17.json.zst",
+      "bytes": 1355388
+    },
+    {
+      "minecraft": "1.18.1",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.18.1.json.zst",
+      "bytes": 1400682
+    },
+    {
+      "minecraft": "1.18.2",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.18.2.json.zst",
+      "bytes": 1420461
+    },
+    {
+      "minecraft": "1.18",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.18.json.zst",
+      "bytes": 1400619
+    },
+    {
+      "minecraft": "1.19.1",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.19.1.json.zst",
+      "bytes": 1517115
+    },
+    {
+      "minecraft": "1.19.2",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.19.2.json.zst",
+      "bytes": 1518698
+    },
+    {
+      "minecraft": "1.19.3",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.19.3.json.zst",
+      "bytes": 1566405
+    },
+    {
+      "minecraft": "1.19.4",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.19.4.json.zst",
+      "bytes": 1614201
+    },
+    {
+      "minecraft": "1.19",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.19.json.zst",
+      "bytes": 1492141
+    },
+    {
+      "minecraft": "1.20.1",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.20.1.json.zst",
+      "bytes": 1644362
+    },
+    {
+      "minecraft": "1.20.2",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.20.2.json.zst",
+      "bytes": 1669960
+    },
+    {
+      "minecraft": "1.20.3",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.20.3.json.zst",
+      "bytes": 1721234
+    },
+    {
+      "minecraft": "1.20.4",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.20.4.json.zst",
+      "bytes": 1721309
+    },
+    {
+      "minecraft": "1.20.5",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.20.5.json.zst",
+      "bytes": 1804761
+    },
+    {
+      "minecraft": "1.20.6",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.20.6.json.zst",
+      "bytes": 1806900
+    },
+    {
+      "minecraft": "1.20",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.20.json.zst",
+      "bytes": 1645943
+    },
+    {
+      "minecraft": "1.21.1",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.21.1.json.zst",
+      "bytes": 1829368
+    },
+    {
+      "minecraft": "1.21.10",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.21.10.json.zst",
+      "bytes": 2114454
+    },
+    {
+      "minecraft": "1.21.11",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.21.11.json.zst",
+      "bytes": 2160255
+    },
+    {
+      "minecraft": "1.21.2",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.21.2.json.zst",
+      "bytes": 1912664
+    },
+    {
+      "minecraft": "1.21.3",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.21.3.json.zst",
+      "bytes": 1911743
+    },
+    {
+      "minecraft": "1.21.4",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.21.4.json.zst",
+      "bytes": 1928253
+    },
+    {
+      "minecraft": "1.21.5",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.21.5.json.zst",
+      "bytes": 1985583
+    },
+    {
+      "minecraft": "1.21.6",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.21.6.json.zst",
+      "bytes": 2036895
+    },
+    {
+      "minecraft": "1.21.7",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.21.7.json.zst",
+      "bytes": 2037687
+    },
+    {
+      "minecraft": "1.21.8",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.21.8.json.zst",
+      "bytes": 2037445
+    },
+    {
+      "minecraft": "1.21.9",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.21.9.json.zst",
+      "bytes": 2114062
+    },
+    {
+      "minecraft": "1.21",
+      "loader": "forge",
+      "side": "client",
+      "source": "srg",
+      "file": "forge/client/1.21.json.zst",
+      "bytes": 1831016
+    },
+    {
+      "minecraft": "26.1.1",
+      "loader": "forge",
+      "side": "client",
+      "source": "jar",
+      "file": "forge/client/26.1.1.json.zst",
+      "bytes": 2095766
+    },
+    {
+      "minecraft": "26.1.2",
+      "loader": "forge",
+      "side": "client",
+      "source": "jar",
+      "file": "forge/client/26.1.2.json.zst",
+      "bytes": 2095149
+    },
+    {
+      "minecraft": "26.1",
+      "loader": "forge",
+      "side": "client",
+      "source": "jar",
+      "file": "forge/client/26.1.json.zst",
+      "bytes": 2095471
+    },
+    {
+      "minecraft": "26.2",
+      "loader": "forge",
+      "side": "client",
+      "source": "jar",
+      "file": "forge/client/26.2.json.zst",
+      "bytes": 2160986
+    },
+    {
+      "minecraft": "1.14.4",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.14.4.json.zst",
+      "bytes": 770604
+    },
+    {
+      "minecraft": "1.15.1",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.15.1.json.zst",
+      "bytes": 806130
+    },
+    {
+      "minecraft": "1.15.2",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.15.2.json.zst",
+      "bytes": 808677
+    },
+    {
+      "minecraft": "1.15",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.15.json.zst",
+      "bytes": 806289
+    },
+    {
+      "minecraft": "1.16.1",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.16.1.json.zst",
+      "bytes": 909607
+    },
+    {
+      "minecraft": "1.16.2",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.16.2.json.zst",
+      "bytes": 925073
+    },
+    {
+      "minecraft": "1.16.3",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.16.3.json.zst",
+      "bytes": 925194
+    },
+    {
+      "minecraft": "1.16.4",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.16.4.json.zst",
+      "bytes": 926936
+    },
+    {
+      "minecraft": "1.16.5",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.16.5.json.zst",
+      "bytes": 926600
+    },
+    {
+      "minecraft": "1.16",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.16.json.zst",
+      "bytes": 909413
+    },
+    {
+      "minecraft": "1.17.1",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.17.1.json.zst",
+      "bytes": 989860
+    },
+    {
+      "minecraft": "1.17",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.17.json.zst",
+      "bytes": 987416
+    },
+    {
+      "minecraft": "1.18.1",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.18.1.json.zst",
+      "bytes": 1029200
+    },
+    {
+      "minecraft": "1.18.2",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.18.2.json.zst",
+      "bytes": 1045413
+    },
+    {
+      "minecraft": "1.18",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.18.json.zst",
+      "bytes": 1029488
+    },
+    {
+      "minecraft": "1.19.1",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.19.1.json.zst",
+      "bytes": 1108732
+    },
+    {
+      "minecraft": "1.19.2",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.19.2.json.zst",
+      "bytes": 1110218
+    },
+    {
+      "minecraft": "1.19.3",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.19.3.json.zst",
+      "bytes": 1147457
+    },
+    {
+      "minecraft": "1.19.4",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.19.4.json.zst",
+      "bytes": 1178866
+    },
+    {
+      "minecraft": "1.19",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.19.json.zst",
+      "bytes": 1103307
+    },
+    {
+      "minecraft": "1.20.1",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.20.1.json.zst",
+      "bytes": 1198982
+    },
+    {
+      "minecraft": "1.20.2",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.20.2.json.zst",
+      "bytes": 1218832
+    },
+    {
+      "minecraft": "1.20.3",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.20.3.json.zst",
+      "bytes": 1256759
+    },
+    {
+      "minecraft": "1.20.4",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.20.4.json.zst",
+      "bytes": 1256706
+    },
+    {
+      "minecraft": "1.20.5",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.20.5.json.zst",
+      "bytes": 1330280
+    },
+    {
+      "minecraft": "1.20.6",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.20.6.json.zst",
+      "bytes": 1331057
+    },
+    {
+      "minecraft": "1.20",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.20.json.zst",
+      "bytes": 1198524
+    },
+    {
+      "minecraft": "1.21.1",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.21.1.json.zst",
+      "bytes": 1356160
+    },
+    {
+      "minecraft": "1.21.10",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.21.10.json.zst",
+      "bytes": 1508352
+    },
+    {
+      "minecraft": "1.21.11",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.21.11.json.zst",
+      "bytes": 1543423
+    },
+    {
+      "minecraft": "1.21.2",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.21.2.json.zst",
+      "bytes": 1411474
+    },
+    {
+      "minecraft": "1.21.3",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.21.3.json.zst",
+      "bytes": 1410740
+    },
+    {
+      "minecraft": "1.21.4",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.21.4.json.zst",
+      "bytes": 1396692
+    },
+    {
+      "minecraft": "1.21.5",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.21.5.json.zst",
+      "bytes": 1440238
+    },
+    {
+      "minecraft": "1.21.6",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.21.6.json.zst",
+      "bytes": 1465309
+    },
+    {
+      "minecraft": "1.21.7",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.21.7.json.zst",
+      "bytes": 1464342
+    },
+    {
+      "minecraft": "1.21.8",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.21.8.json.zst",
+      "bytes": 1464615
+    },
+    {
+      "minecraft": "1.21.9",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.21.9.json.zst",
+      "bytes": 1508130
+    },
+    {
+      "minecraft": "1.21",
+      "loader": "forge",
+      "side": "server",
+      "source": "srg",
+      "file": "forge/server/1.21.json.zst",
+      "bytes": 1356193
+    },
+    {
+      "minecraft": "26.1.1",
+      "loader": "forge",
+      "side": "server",
+      "source": "jar",
+      "file": "forge/server/26.1.1.json.zst",
+      "bytes": 1482911
+    },
+    {
+      "minecraft": "26.1.2",
+      "loader": "forge",
+      "side": "server",
+      "source": "jar",
+      "file": "forge/server/26.1.2.json.zst",
+      "bytes": 1482829
+    },
+    {
+      "minecraft": "26.1",
+      "loader": "forge",
+      "side": "server",
+      "source": "jar",
+      "file": "forge/server/26.1.json.zst",
+      "bytes": 1482953
+    },
+    {
+      "minecraft": "26.2",
+      "loader": "forge",
+      "side": "server",
+      "source": "jar",
+      "file": "forge/server/26.2.json.zst",
+      "bytes": 1508907
+    },
+    {
+      "minecraft": "1.20.2",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.20.2.json.zst",
+      "bytes": 1605244
+    },
+    {
+      "minecraft": "1.20.3",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.20.3.json.zst",
+      "bytes": 1650045
+    },
+    {
+      "minecraft": "1.20.4",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.20.4.json.zst",
+      "bytes": 1650093
+    },
+    {
+      "minecraft": "1.20.5",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.20.5.json.zst",
+      "bytes": 1724280
+    },
+    {
+      "minecraft": "1.20.6",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.20.6.json.zst",
+      "bytes": 1724516
+    },
+    {
+      "minecraft": "1.21.1",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.21.1.json.zst",
+      "bytes": 1745876
+    },
+    {
+      "minecraft": "1.21.10",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.21.10.json.zst",
+      "bytes": 2001616
+    },
+    {
+      "minecraft": "1.21.11",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.21.11.json.zst",
+      "bytes": 2040803
+    },
+    {
+      "minecraft": "1.21.2",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.21.2.json.zst",
+      "bytes": 1817234
+    },
+    {
+      "minecraft": "1.21.3",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.21.3.json.zst",
+      "bytes": 1817104
+    },
+    {
+      "minecraft": "1.21.4",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.21.4.json.zst",
+      "bytes": 1831712
+    },
+    {
+      "minecraft": "1.21.5",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.21.5.json.zst",
+      "bytes": 1882171
+    },
+    {
+      "minecraft": "1.21.6",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.21.6.json.zst",
+      "bytes": 1930901
+    },
+    {
+      "minecraft": "1.21.7",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.21.7.json.zst",
+      "bytes": 1929484
+    },
+    {
+      "minecraft": "1.21.8",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.21.8.json.zst",
+      "bytes": 1931682
+    },
+    {
+      "minecraft": "1.21.9",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.21.9.json.zst",
+      "bytes": 2002015
+    },
+    {
+      "minecraft": "1.21",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "neoforge/client/1.21.json.zst",
+      "bytes": 1745515
+    },
+    {
+      "minecraft": "26.1.1",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "jar",
+      "file": "neoforge/client/26.1.1.json.zst",
+      "bytes": 2095876
+    },
+    {
+      "minecraft": "26.1.2",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "jar",
+      "file": "neoforge/client/26.1.2.json.zst",
+      "bytes": 2095121
+    },
+    {
+      "minecraft": "26.1",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "jar",
+      "file": "neoforge/client/26.1.json.zst",
+      "bytes": 2095909
+    },
+    {
+      "minecraft": "26.2",
+      "loader": "neoforge",
+      "side": "client",
+      "source": "jar",
+      "file": "neoforge/client/26.2.json.zst",
+      "bytes": 2160675
+    },
+    {
+      "minecraft": "1.20.2",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.20.2.json.zst",
+      "bytes": 1170770
+    },
+    {
+      "minecraft": "1.20.3",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.20.3.json.zst",
+      "bytes": 1204865
+    },
+    {
+      "minecraft": "1.20.4",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.20.4.json.zst",
+      "bytes": 1204916
+    },
+    {
+      "minecraft": "1.20.5",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.20.5.json.zst",
+      "bytes": 1269870
+    },
+    {
+      "minecraft": "1.20.6",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.20.6.json.zst",
+      "bytes": 1270696
+    },
+    {
+      "minecraft": "1.21.1",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.21.1.json.zst",
+      "bytes": 1292724
+    },
+    {
+      "minecraft": "1.21.10",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.21.10.json.zst",
+      "bytes": 1429219
+    },
+    {
+      "minecraft": "1.21.11",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.21.11.json.zst",
+      "bytes": 1459859
+    },
+    {
+      "minecraft": "1.21.2",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.21.2.json.zst",
+      "bytes": 1342827
+    },
+    {
+      "minecraft": "1.21.3",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.21.3.json.zst",
+      "bytes": 1342505
+    },
+    {
+      "minecraft": "1.21.4",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.21.4.json.zst",
+      "bytes": 1328160
+    },
+    {
+      "minecraft": "1.21.5",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.21.5.json.zst",
+      "bytes": 1365406
+    },
+    {
+      "minecraft": "1.21.6",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.21.6.json.zst",
+      "bytes": 1389121
+    },
+    {
+      "minecraft": "1.21.7",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.21.7.json.zst",
+      "bytes": 1389755
+    },
+    {
+      "minecraft": "1.21.8",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.21.8.json.zst",
+      "bytes": 1389755
+    },
+    {
+      "minecraft": "1.21.9",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.21.9.json.zst",
+      "bytes": 1428641
+    },
+    {
+      "minecraft": "1.21",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "neoforge/server/1.21.json.zst",
+      "bytes": 1292426
+    },
+    {
+      "minecraft": "26.1.1",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "jar",
+      "file": "neoforge/server/26.1.1.json.zst",
+      "bytes": 1482854
+    },
+    {
+      "minecraft": "26.1.2",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "jar",
+      "file": "neoforge/server/26.1.2.json.zst",
+      "bytes": 1482967
+    },
+    {
+      "minecraft": "26.1",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "jar",
+      "file": "neoforge/server/26.1.json.zst",
+      "bytes": 1482752
+    },
+    {
+      "minecraft": "26.2",
+      "loader": "neoforge",
+      "side": "server",
+      "source": "jar",
+      "file": "neoforge/server/26.2.json.zst",
+      "bytes": 1508511
+    },
+    {
+      "minecraft": "1.14.4",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.14.4.json.zst",
+      "bytes": 957590
+    },
+    {
+      "minecraft": "1.15.1",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.15.1.json.zst",
+      "bytes": 996808
+    },
+    {
+      "minecraft": "1.15.2",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.15.2.json.zst",
+      "bytes": 999001
+    },
+    {
+      "minecraft": "1.15",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.15.json.zst",
+      "bytes": 996132
+    },
+    {
+      "minecraft": "1.16.1",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.16.1.json.zst",
+      "bytes": 1094850
+    },
+    {
+      "minecraft": "1.16.2",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.16.2.json.zst",
+      "bytes": 1110991
+    },
+    {
+      "minecraft": "1.16.3",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.16.3.json.zst",
+      "bytes": 1111252
+    },
+    {
+      "minecraft": "1.16.4",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.16.4.json.zst",
+      "bytes": 1116372
+    },
+    {
+      "minecraft": "1.16.5",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.16.5.json.zst",
+      "bytes": 1116151
+    },
+    {
+      "minecraft": "1.16",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.16.json.zst",
+      "bytes": 1094964
+    },
+    {
+      "minecraft": "1.17.1",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.17.1.json.zst",
+      "bytes": 1240010
+    },
+    {
+      "minecraft": "1.17",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.17.json.zst",
+      "bytes": 1236854
+    },
+    {
+      "minecraft": "1.18.1",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.18.1.json.zst",
+      "bytes": 1276573
+    },
+    {
+      "minecraft": "1.18.2",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.18.2.json.zst",
+      "bytes": 1292911
+    },
+    {
+      "minecraft": "1.18",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.18.json.zst",
+      "bytes": 1276809
+    },
+    {
+      "minecraft": "1.19.1",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.19.1.json.zst",
+      "bytes": 1378054
+    },
+    {
+      "minecraft": "1.19.2",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.19.2.json.zst",
+      "bytes": 1380322
+    },
+    {
+      "minecraft": "1.19.3",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.19.3.json.zst",
+      "bytes": 1418681
+    },
+    {
+      "minecraft": "1.19.4",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.19.4.json.zst",
+      "bytes": 1459669
+    },
+    {
+      "minecraft": "1.19",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.19.json.zst",
+      "bytes": 1357020
+    },
+    {
+      "minecraft": "1.20.1",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.20.1.json.zst",
+      "bytes": 1484891
+    },
+    {
+      "minecraft": "1.20.2",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.20.2.json.zst",
+      "bytes": 1506935
+    },
+    {
+      "minecraft": "1.20.3",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.20.3.json.zst",
+      "bytes": 1548006
+    },
+    {
+      "minecraft": "1.20.4",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.20.4.json.zst",
+      "bytes": 1548034
+    },
+    {
+      "minecraft": "1.20.5",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.20.5.json.zst",
+      "bytes": 1617895
+    },
+    {
+      "minecraft": "1.20.6",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.20.6.json.zst",
+      "bytes": 1618737
+    },
+    {
+      "minecraft": "1.20",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.20.json.zst",
+      "bytes": 1484602
+    },
+    {
+      "minecraft": "1.21.1",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.21.1.json.zst",
+      "bytes": 1637695
+    },
+    {
+      "minecraft": "1.21.10",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.21.10.json.zst",
+      "bytes": 1873937
+    },
+    {
+      "minecraft": "1.21.11",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.21.11.json.zst",
+      "bytes": 1912309
+    },
+    {
+      "minecraft": "1.21.2",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.21.2.json.zst",
+      "bytes": 1702246
+    },
+    {
+      "minecraft": "1.21.3",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.21.3.json.zst",
+      "bytes": 1702575
+    },
+    {
+      "minecraft": "1.21.4",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.21.4.json.zst",
+      "bytes": 1715849
+    },
+    {
+      "minecraft": "1.21.5",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.21.5.json.zst",
+      "bytes": 1765772
+    },
+    {
+      "minecraft": "1.21.6",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.21.6.json.zst",
+      "bytes": 1808710
+    },
+    {
+      "minecraft": "1.21.7",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.21.7.json.zst",
+      "bytes": 1808539
+    },
+    {
+      "minecraft": "1.21.8",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.21.8.json.zst",
+      "bytes": 1809252
+    },
+    {
+      "minecraft": "1.21.9",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.21.9.json.zst",
+      "bytes": 1874599
+    },
+    {
+      "minecraft": "1.21",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "mojang-official",
+      "file": "vanilla/client/1.21.json.zst",
+      "bytes": 1637444
+    },
+    {
+      "minecraft": "26.1.1",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "jar",
+      "file": "vanilla/client/26.1.1.json.zst",
+      "bytes": 2095928
+    },
+    {
+      "minecraft": "26.1.2",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "jar",
+      "file": "vanilla/client/26.1.2.json.zst",
+      "bytes": 2095080
+    },
+    {
+      "minecraft": "26.1",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "jar",
+      "file": "vanilla/client/26.1.json.zst",
+      "bytes": 2095767
+    },
+    {
+      "minecraft": "26.2",
+      "loader": "vanilla",
+      "side": "client",
+      "source": "jar",
+      "file": "vanilla/client/26.2.json.zst",
+      "bytes": 2160993
+    },
+    {
+      "minecraft": "1.14.4",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.14.4.json.zst",
+      "bytes": 664627
+    },
+    {
+      "minecraft": "1.15.1",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.15.1.json.zst",
+      "bytes": 693791
+    },
+    {
+      "minecraft": "1.15.2",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.15.2.json.zst",
+      "bytes": 695291
+    },
+    {
+      "minecraft": "1.15",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.15.json.zst",
+      "bytes": 693564
+    },
+    {
+      "minecraft": "1.16.1",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.16.1.json.zst",
+      "bytes": 777764
+    },
+    {
+      "minecraft": "1.16.2",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.16.2.json.zst",
+      "bytes": 789676
+    },
+    {
+      "minecraft": "1.16.3",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.16.3.json.zst",
+      "bytes": 789963
+    },
+    {
+      "minecraft": "1.16.4",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.16.4.json.zst",
+      "bytes": 791172
+    },
+    {
+      "minecraft": "1.16.5",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.16.5.json.zst",
+      "bytes": 792038
+    },
+    {
+      "minecraft": "1.16",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.16.json.zst",
+      "bytes": 777709
+    },
+    {
+      "minecraft": "1.17.1",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.17.1.json.zst",
+      "bytes": 902168
+    },
+    {
+      "minecraft": "1.17",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.17.json.zst",
+      "bytes": 902051
+    },
+    {
+      "minecraft": "1.18.1",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.18.1.json.zst",
+      "bytes": 937232
+    },
+    {
+      "minecraft": "1.18.2",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.18.2.json.zst",
+      "bytes": 951306
+    },
+    {
+      "minecraft": "1.18",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.18.json.zst",
+      "bytes": 936474
+    },
+    {
+      "minecraft": "1.19.1",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.19.1.json.zst",
+      "bytes": 1006192
+    },
+    {
+      "minecraft": "1.19.2",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.19.2.json.zst",
+      "bytes": 1006615
+    },
+    {
+      "minecraft": "1.19.3",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.19.3.json.zst",
+      "bytes": 1038208
+    },
+    {
+      "minecraft": "1.19.4",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.19.4.json.zst",
+      "bytes": 1065617
+    },
+    {
+      "minecraft": "1.19",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.19.json.zst",
+      "bytes": 1001629
+    },
+    {
+      "minecraft": "1.20.1",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.20.1.json.zst",
+      "bytes": 1083163
+    },
+    {
+      "minecraft": "1.20.2",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.20.2.json.zst",
+      "bytes": 1098301
+    },
+    {
+      "minecraft": "1.20.3",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.20.3.json.zst",
+      "bytes": 1129358
+    },
+    {
+      "minecraft": "1.20.4",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.20.4.json.zst",
+      "bytes": 1129320
+    },
+    {
+      "minecraft": "1.20.5",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.20.5.json.zst",
+      "bytes": 1189833
+    },
+    {
+      "minecraft": "1.20.6",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.20.6.json.zst",
+      "bytes": 1190819
+    },
+    {
+      "minecraft": "1.20",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.20.json.zst",
+      "bytes": 1082291
+    },
+    {
+      "minecraft": "1.21.1",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.21.1.json.zst",
+      "bytes": 1213430
+    },
+    {
+      "minecraft": "1.21.10",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.21.10.json.zst",
+      "bytes": 1337068
+    },
+    {
+      "minecraft": "1.21.11",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.21.11.json.zst",
+      "bytes": 1365329
+    },
+    {
+      "minecraft": "1.21.2",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.21.2.json.zst",
+      "bytes": 1255655
+    },
+    {
+      "minecraft": "1.21.3",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.21.3.json.zst",
+      "bytes": 1256315
+    },
+    {
+      "minecraft": "1.21.4",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.21.4.json.zst",
+      "bytes": 1242019
+    },
+    {
+      "minecraft": "1.21.5",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.21.5.json.zst",
+      "bytes": 1277920
+    },
+    {
+      "minecraft": "1.21.6",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.21.6.json.zst",
+      "bytes": 1298496
+    },
+    {
+      "minecraft": "1.21.7",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.21.7.json.zst",
+      "bytes": 1298506
+    },
+    {
+      "minecraft": "1.21.8",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.21.8.json.zst",
+      "bytes": 1298827
+    },
+    {
+      "minecraft": "1.21.9",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.21.9.json.zst",
+      "bytes": 1337089
+    },
+    {
+      "minecraft": "1.21",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "mojang-official",
+      "file": "vanilla/server/1.21.json.zst",
+      "bytes": 1211283
+    },
+    {
+      "minecraft": "26.1.1",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "jar",
+      "file": "vanilla/server/26.1.1.json.zst",
+      "bytes": 1482632
+    },
+    {
+      "minecraft": "26.1.2",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "jar",
+      "file": "vanilla/server/26.1.2.json.zst",
+      "bytes": 1482980
+    },
+    {
+      "minecraft": "26.1",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "jar",
+      "file": "vanilla/server/26.1.json.zst",
+      "bytes": 1482814
+    },
+    {
+      "minecraft": "26.2",
+      "loader": "vanilla",
+      "side": "server",
+      "source": "jar",
+      "file": "vanilla/server/26.2.json.zst",
+      "bytes": 1508593
+    }
+  ]
+}
