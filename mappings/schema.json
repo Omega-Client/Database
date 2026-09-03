@@ -1,0 +1,156 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Omega-Client/Database/mappings/schema.json",
+  "title": "Omega symbol mappings",
+  "type": "object",
+  "required": [
+    "schema",
+    "minecraft",
+    "loader",
+    "side",
+    "classes"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schema": {
+      "const": 1
+    },
+    "minecraft": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+(\\.[0-9]+)?$",
+      "description": "Release version only. No snapshots, no pre-releases."
+    },
+    "loader": {
+      "enum": [
+        "vanilla",
+        "fabric",
+        "forge",
+        "neoforge"
+      ]
+    },
+    "side": {
+      "enum": [
+        "client",
+        "server"
+      ]
+    },
+    "source": {
+      "enum": [
+        "mojang-official",
+        "mcp",
+        "yarn",
+        "manual"
+      ],
+      "description": "Where the runtime names came from, for auditability."
+    },
+    "generated": {
+      "type": "string",
+      "format": "date"
+    },
+    "classes": {
+      "type": "object",
+      "propertyNames": {
+        "$ref": "#/$defs/key"
+      },
+      "additionalProperties": {
+        "$ref": "#/$defs/class"
+      }
+    }
+  },
+  "$defs": {
+    "key": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_$-]+(/[A-Za-z0-9_$-]+)*$",
+      "description": "Deobfuscated binary class name. Inner classes keep their $, package-info its hyphen."
+    },
+    "methodKey": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_$<>]+\\([^)]*\\).+$",
+      "description": "Deobfuscated name plus deobfuscated descriptor; overloads share a name."
+    },
+    "fieldKey": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_$]+$"
+    },
+    "descriptor": {
+      "type": "string",
+      "pattern": "^(\\(.*\\))?\\[*([BCDFIJSZV]|L[^;]+;)$"
+    },
+    "class": {
+      "type": "object",
+      "required": [
+        "runtime"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "runtime": {
+          "type": "string",
+          "description": "Binary name as loaded by the JVM."
+        },
+        "methods": {
+          "type": "object",
+          "propertyNames": {
+            "$ref": "#/$defs/methodKey"
+          },
+          "additionalProperties": {
+            "$ref": "#/$defs/method"
+          }
+        },
+        "fields": {
+          "type": "object",
+          "propertyNames": {
+            "$ref": "#/$defs/fieldKey"
+          },
+          "additionalProperties": {
+            "$ref": "#/$defs/field"
+          }
+        }
+      }
+    },
+    "method": {
+      "type": "object",
+      "required": [
+        "runtime",
+        "descriptor"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "runtime": {
+          "type": "string"
+        },
+        "descriptor": {
+          "$ref": "#/$defs/descriptor"
+        },
+        "static": {
+          "type": "boolean",
+          "default": false
+        },
+        "pattern": {
+          "type": "string",
+          "pattern": "^([0-9A-F]{2}|\\?\\?)( ([0-9A-F]{2}|\\?\\?))*$",
+          "description": "Wildcarded bytecode; verifies the runtime name and finds the method again when it is wrong."
+        }
+      }
+    },
+    "field": {
+      "type": "object",
+      "required": [
+        "runtime",
+        "descriptor"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "runtime": {
+          "type": "string"
+        },
+        "descriptor": {
+          "$ref": "#/$defs/descriptor"
+        },
+        "static": {
+          "type": "boolean",
+          "default": false
+        }
+      }
+    }
+  }
+}
